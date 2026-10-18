@@ -1,0 +1,10 @@
+example,technique,model,conditions_found,conditions_total,documents_found,documents_total,fabricated_claims,invalid_quotes,json_valid,notes
+01_burs_basvurusu,Zero-shot,,,,,,,,,
+01_burs_basvurusu,Few-shot,,,,,,,,,
+01_burs_basvurusu,Step-by-step (final),,,,,,,,,
+02_sosyal_destek,Zero-shot,,,,,,,,,
+02_sosyal_destek,Few-shot,,,,,,,,,
+02_sosyal_destek,Step-by-step (final),,,,,,,,,
+03_eksik_bilgi,Zero-shot,,,,,,,,,
+03_eksik_bilgi,Few-shot,,,,,,,,,
+03_eksik_bilgi,Step-by-step (final),,,,,,,,,

@@ -1,0 +1,36 @@
+{
+  "summary": "Öğrenciler, ücretsiz kütüphane erişim programına kayıt belgesi ile başvurabilir.",
+  "requirements": [
+    {
+      "text": "Öğrencilerin kayıt belgesiyle müracaat etmesi gerekmektedir.",
+      "quote": "Öğrenciler, ücretsiz kütüphane erişim programı için kayıt belgesiyle müracaat edebilir.",
+      "evidence_match": true
+    }
+  ],
+  "documents": [
+    {
+      "text": "Kayıt belgesi gereklidir.",
+      "quote": "kayıt belgesiyle",
+      "evidence_match": true
+    }
+  ],
+  "deadline": {
+    "text": "Belirtilmemiş",
+    "quote": "",
+    "evidence_match": false
+  },
+  "steps": [
+    "Kayıt belgenizi hazırlayın.",
+    "Kurumun iletişim masasına giderek müracaatınızı yapın.",
+    "Son tarih ve iletişim bilgileri için kuruma danışın."
+  ],
+  "missing_information": [
+    "Son başvuru tarihi belirtilmemiş.",
+    "Başvuru adresi belirtilmemiş.",
+    "İletişim bilgileri belirtilmemiş."
+  ],
+  "notes": [
+    "Başvurunun son günü, başvuru adresi ve iletişim bilgileri duyuruda yer almamaktadır; bu bilgileri öğrenmek için kuruma danışmalısınız."
+  ],
+  "validation_warnings": []
+}

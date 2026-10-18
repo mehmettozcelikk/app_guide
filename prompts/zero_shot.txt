@@ -1,0 +1,8 @@
+Görev: Aşağıdaki başvuru duyurusunu {{READING_LEVEL}} düzeyinde Türkçe ile açıkla.
+Sadece kaynak metne dayan. Eksik bilgiler için "Belirtilmemiş" yaz.
+Aşağıdaki JSON alanlarını doldur:
+summary (metin), requirements ([{"text":"...", "quote":"metinden birebir alıntı"}]), documents (aynı biçim), deadline ({"text":"...", "quote":"..."}), steps (metin listesi), missing_information (metin listesi), notes (metin listesi).
+Bulunmayan bilginin alıntısı boş olmalı. Başka metin ekleme.
+<source_document>
+{{SOURCE_TEXT}}
+</source_document>

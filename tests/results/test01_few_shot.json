@@ -1,0 +1,39 @@
+{
+  "summary": "Örgün eğitimdeki üniversite öğrencilerinin başvurabileceği eğitim desteğidir.",
+  "requirements": [
+    {
+      "text": "Örgün eğitimde kayıtlı üniversite öğrencisi olmak",
+      "quote": "Öğrenim desteğine yalnızca örgün eğitimde kayıtlı üniversite öğrencileri başvurabilir.",
+      "evidence_match": true
+    }
+  ],
+  "documents": [
+    {
+      "text": "Güncel öğrenci belgesi",
+      "quote": "güncel öğrenci belgesi",
+      "evidence_match": true
+    },
+    {
+      "text": "İmzalı başvuru formu",
+      "quote": "imzalı başvuru formu",
+      "evidence_match": true
+    }
+  ],
+  "deadline": {
+    "text": "25 Ekim 2026 saat 17.00",
+    "quote": "Başvurular 25 Ekim 2026 saat 17.00'ye kadar çevrim içi sistemden yapılmalıdır.",
+    "evidence_match": true
+  },
+  "steps": [
+    "Örgün eğitimde kayıtlı bir üniversite öğrencisi olup olmadığınıza dikkat edin.",
+    "Güncel öğrenci belgenizi ve imzalı başvuru formunuzu hazırlayın.",
+    "25 Ekim 2026 saat 17.00'ye kadar çevrim içi sistem üzerinden başvurunuzu yapın."
+  ],
+  "missing_information": [
+    "Başvuru bağlantısı belirtilmemiştir."
+  ],
+  "notes": [
+    "Son başvuru tarihinden sonra yapılan başvurular değerlendirilmez."
+  ],
+  "validation_warnings": []
+}

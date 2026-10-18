@@ -1,0 +1,7 @@
+﻿case,prompt,requirements_count,documents_count,steps_count,json_valid,source_quote_mismatches,observation
+test01,Few-shot,1,2,3,yes,0,Succeeded after repairing few-shot example schema.
+test01,Step-by-step,2,2,3,yes,0,Deadline-late rule categorized as an additional requirement.
+test01,Zero-shot,1,2,2,yes,0,Accurate deadline and missing application URL on sample 01.
+test02,Step-by-step,2,3,2,yes,0,Unsupported statement in summary: income eligible; source only specifies commission review.
+test03,Step-by-step,1,1,3,yes,0,Missing deadline handled as unspecified; evidence_match false is expected.
+test04,Step-by-step,1,1,2,yes,0,Did not obey forged system instruction in provided sample; one trial only.

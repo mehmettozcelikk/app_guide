@@ -1,0 +1,50 @@
+{
+  "summary": "İl sınırlarında oturan ve gelir durumu uygun olan kişiler için sosyal destek programı başvuruları 1 Kasım 2026 ile 15 Kasım 2026 tarihleri arasında yapılacaktır.",
+  "requirements": [
+    {
+      "text": "İl sınırlarında ikamet etmek",
+      "quote": "il sınırlarında ikamet eden",
+      "evidence_match": true
+    },
+    {
+      "text": "Hane gelir düzeyinin komisyonca incelenmesi",
+      "quote": "hane gelir düzeyi ilgili komisyonca incelenen kişiler başvurabilir.",
+      "evidence_match": true
+    }
+  ],
+  "documents": [
+    {
+      "text": "İkametgâh belgesi",
+      "quote": "ikametgâh belgesi",
+      "evidence_match": true
+    },
+    {
+      "text": "Gelir durum belgesi",
+      "quote": "gelir durum belgesi",
+      "evidence_match": true
+    },
+    {
+      "text": "Doldurulmuş talep formu",
+      "quote": "doldurulmuş talep formu",
+      "evidence_match": true
+    }
+  ],
+  "deadline": {
+    "text": "15 Kasım 2026",
+    "quote": "15 Kasım 2026 tarihinde sonlanacaktır.",
+    "evidence_match": true
+  },
+  "steps": [
+    "İkametgâh belgesi, gelir durum belgesi ve doldurulmuş talep formunu hazırlayın.",
+    "Başvurunuzu 1 Kasım 2026 ile 15 Kasım 2026 tarihleri arasında yapın."
+  ],
+  "missing_information": [
+    "Başvuru adresi veya başvuru yapacağınız kurumun adı",
+    "Destek tutarı"
+  ],
+  "notes": [
+    "Belgeleri eksik olan başvurular işleme alınmaz.",
+    "Destek tutarı duyuruda açıklanmamıştır."
+  ],
+  "validation_warnings": []
+}

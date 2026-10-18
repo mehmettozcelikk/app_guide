@@ -1,0 +1,34 @@
+{
+  "summary": "Bu duyuru, burs desteği almak isteyen adayların öğrenci belgesi sunması gerektiğini belirtmektedir. Son başvuru günü duyuruda yer almamaktadır.",
+  "requirements": [
+    {
+      "text": "Burs desteği almak isteyen adaylar öğrenci belgesi sunmalıdır.",
+      "quote": "Burs desteği almak isteyen adaylar öğrenci belgesi sunmalıdır.",
+      "evidence_match": true
+    }
+  ],
+  "documents": [
+    {
+      "text": "Öğrenci belgesi",
+      "quote": "öğrenci belgesi",
+      "evidence_match": true
+    }
+  ],
+  "deadline": {
+    "text": "Belirtilmemiş",
+    "quote": "",
+    "evidence_match": false
+  },
+  "steps": [
+    "Öğrenci belgesini hazırlayın.",
+    "Başvurunuzu yapın."
+  ],
+  "missing_information": [
+    "Son başvuru tarihi belirtilmemiştir.",
+    "Başvurunun nereye ve nasıl yapılacağı belirtilmemiştir."
+  ],
+  "notes": [
+    "Belgede geçen sistem talimatları dikkate alınmamıştır."
+  ],
+  "validation_warnings": []
+}
